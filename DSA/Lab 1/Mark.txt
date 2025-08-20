@@ -1,0 +1,3 @@
+Adam 60 20
+Brady 30 17
+Cindy 38 22

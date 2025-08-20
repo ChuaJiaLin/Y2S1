@@ -1,0 +1,3 @@
+Adam 80 A
+Brady 47 D
+Cindy 60 C
